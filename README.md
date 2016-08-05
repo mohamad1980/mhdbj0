@@ -8,3 +8,7 @@ Meteor Up (mup for short) is a command line tool that allows you to deploy any M
 #  Installation
     npm install -g mup
      
+#  Creating a Meteor Up Project
+   mkdir ~/my-meteor-deployment
+   cd ~/my-meteor-deployment
+   mup init
