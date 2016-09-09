@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # This is the Meteor install script!
-#
+##
 # Are you looking at this in your web browser, and would like to install Meteor?
 #
 # MAC AND LINUX:
