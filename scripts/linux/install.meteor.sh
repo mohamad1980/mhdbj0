@@ -31,8 +31,8 @@ run_it () {
 # packages and package metadata; no personal persistent data is stored there.)
 
 #RELEASE="1.4.0.1"
-RELEASE="1.0.3.1"
-
+#RELEASE="1.0.3.1"
+RELEASE="1.4.1.1"
 
 # Now, on to the actual installer!
 
